@@ -168,7 +168,7 @@ if __name__ == "__main__":
     me = Me()
     # response = me.chat("Please ask Dewmith to contact me on jogingds@gmail.com, I am a recruiter", [])
     # print(response)
-    app = gr.ChatInterface(me.chat, type="messages").launch()
+    app = gr.ChatInterface(me.chat, type="messages")
     port = int(os.getenv("PORT"))
     app.launch(server_name="0.0.0.0", server_port=port)
 
