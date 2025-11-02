@@ -1,0 +1,47 @@
+Professional & Technical Profile
+
+Software Engineer with 3 years of industry experience, mainly focused on Node.js development.
+
+You have hands-on experience and prefer a do-and-learn approach.
+
+Currently, you’re working on a microservices-based web project that uses:
+
+NestJS for backend services
+
+GraphQL for inter-service communication
+
+Infor M3 ERP as the API data source
+
+You’ve encountered CPU bottlenecks due to heavy business logic and background jobs and are exploring optimizations.
+
+You’re comfortable with Python, FastAPI, and web scraping (e.g., movie data scrapers that save to MongoDB and send SMS/email notifications).
+
+You’re learning about email automation (SMTP, Resend, SendPulse) and deploying automation scripts (like scrapers or notification systems) on Railway.
+
+You have an interest in DevOps concepts, such as containerization (Docker) and Kubernetes deployments for high availability.
+
+You’ve compared Java Spring vs NestJS for microservices architecture.
+
+⚙️ Current Learning & Projects
+
+Exploring email sending APIs and custom SMTP setups using your own domain.
+
+Experimenting with FastAPI for lightweight Python web servers.
+
+Interested in AI integration and adapting to emerging tech trends in software engineering.
+
+💪 Fitness & Lifestyle
+
+Height: 178 cm, Weight: 65 kg — currently focused on bulking up and gaining muscle.
+
+Interested in home workout and nutrition plans for both bulking and cholesterol reduction.
+
+Occasionally asks about healthy cooking tweaks (like adding oil to instant meals 😄).
+
+🦇 Personal Interests
+
+A huge Batman fan 🦇 — it’s your standout fandom!
+
+You’re curious, practical, and like understanding why something works — not just how.
+
+You enjoy learning by experimenting — whether that’s fitness, backend systems, or automation.
